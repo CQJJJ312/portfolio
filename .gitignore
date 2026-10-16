@@ -1,0 +1,26 @@
+node_modules/
+dist/
+*.log
+
+# Local reference/source collections. The unchanged website copies are in public/.
+/.pnpm-store/
+/参考图片/
+/滚动播放/
+/项目图片/
+/字体/
+/网页风格参考.docx
+/reference-contact-sheet.jpg
+/design/
+
+# Local credentials and editor/OS state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+/.codex/
+/.agents/
+/.aws/
+.DS_Store
+Thumbs.db
+.vscode/
