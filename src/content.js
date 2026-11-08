@@ -9,8 +9,8 @@ export const projects = [
     "我负责活动的平面视觉设计，包括现场物料及数字传播内容，并完成了部分 3D 场景的设计与视觉呈现。"
   ],
   "en": [
-    "Spring with Barbour was a spring brand event combining live music, interactive games, and outdoor experiences. The creative concept explored the connection between Barbour’s classic jackets and outdoor life, translating activities such as fishing, cycling, and birdwatching into playful experiences. Guests could discover the products through participation while connecting with the brand’s outdoor lifestyle.",
-    "I was responsible for graphic design across on-site materials and digital communications, as well as the design and visualization of selected 3D scenes."
+    "Spring with Barbour was a spring event combining live music, interactive games, and outdoor experiences. The creative concept connected Barbour’s classic jackets with outdoor life, translating fishing, cycling, and birdwatching into playful activities that helped guests discover the products and experience the brand’s outdoor lifestyle.",
+    "I designed on-site graphics and digital communications, alongside selected 3D scenes and visualizations."
   ]
 }, images: [
     image('barbour','overview.jpg','Barbour outdoor event — site overview',2400,1600),
@@ -24,8 +24,8 @@ export const projects = [
     "我提出将体验与传播放在同一过程中：来宾参与视觉游戏的同时，也完成了可供分享的影像创作。我负责项目的平面视觉设计与动态内容制作，包括现场视觉物料、品牌传播设计及动态邀请函。"
   ],
   "en": [
-    "Under the theme “1890 Beyond the Ordinary,” New Balance connected offline creator experiences and photo-led social sharing with Tmall livestreaming. The concept turned photography itself into a visual game. Drawing on René Magritte’s surrealist sensibility, it used perspective illusions and shifts between real and imagined space to invite guests into the scene and create unexpected photographs.",
-    "I proposed bringing participation and communication together, so that taking part in the visual game also became the process of creating shareable images. I was responsible for graphic and motion design, including on-site visual materials, brand communications, and animated invitations."
+    "Under “1890 Beyond the Ordinary,” New Balance combined offline creator experiences, photo-led sharing, and Tmall livestreaming. Inspired by René Magritte, the concept turned photography into a visual game, using perspective illusions and shifts between real and imagined space to create unexpected images as guests became part of each scene.",
+    "I proposed uniting participation and communication through shareable photographs, and delivered graphic and motion design across on-site materials, brand communications, and animated invitations."
   ]
 }, images: [
     image('newbalance','space.jpg','ABZORB 1890 event space with curved installation',1440,960),
@@ -49,8 +49,8 @@ export const projects = [
     "我独立提出这一叙事方向，并负责从创意构思、概念发展到视觉设计及 3D 效果呈现的完整过程，将概念发展为具体的橱窗提案。"
   ],
   "en": [
-    "A creative proposal for SKP’s Year of the Horse New Year window displays, reinterpreting a traditional festive theme through a contemporary design language. The window concept took Eadweard Muybridge’s sequential photographs of a galloping horse as its starting point. The horse’s forward motion inspired a narrative connecting moving trains with the idea of embarking on a new year. Across four windows, the displays formed a continuous journey from past to present and into the year ahead, expressing renewal and forward momentum.",
-    "I independently developed this narrative direction and carried the project from initial concept through visual design and 3D visualization, translating the idea into a complete window display proposal."
+    "A contemporary window display proposal for SKP’s Year of the Horse New Year celebrations, reinterpreting a traditional festive theme. Inspired by Eadweard Muybridge’s sequential photographs of a galloping horse, the concept linked equine motion with moving trains and new beginnings. Four windows formed a journey from past to present and into the year ahead, expressing renewal and forward momentum.",
+    "I independently developed the narrative and delivered the project from initial concept through visual design and 3D visualization to a complete window display proposal."
   ]
 },designFiles:[image('skp','window-01.png','SKP window display 1',1033,469),image('skp','material-detail.png','SKP window detail 1',621,823),image('skp','window-variation.png','SKP window display 2',1033,469),image('skp','window-03.png','SKP window display 3',1033,469),image('skp','material-detail-02.png','SKP window detail 2',621,823),image('skp','window-concept.png','SKP window display 4',1033,469)],images:[],videos:[{...video('skp','motion-study.mp4','SKP window display proposal'),hideCaption:true}]},
   {id:'a-day-in-barbour',name:'A Day in Barbour',layout:'barbour-guideline',subtitle:'KOL Video Guidelines / Visual System',client:'Barbour',roles:['Visual Design','Layout Design','Video Guidelines'],description:{zh:['为 Barbour「A Day in Barbour」系列 KOL 视频设计统一的视觉规范，涵盖封面版式、时间标记、字体系统及片尾画面，并制作 Storyboard 分镜脚本，为拍摄与剪辑提供视觉参考。在保持整体视觉一致性的同时，为不同创作者的内容保留灵活性。'],en:['Developed a consistent visual system for the A Day in Barbour KOL video series, including cover layouts, timestamp graphics, typography, and end frames, alongside storyboards to guide filming and editing. The guidelines establish a recognizable visual identity while allowing flexibility across different creators\' content.']},images:[{...image('barbour-guideline','cover-design.png','A Day in Barbour cover design — woman seated in a car',1494,2655),caption:'01 / COVER DESIGN'},{...image('barbour-guideline','timestamp-graphic.png','A Day in Barbour timestamp graphic — morning dog walk',1120,1992),caption:'02 / TIMESTAMP GRAPHIC'}],videos:[{ratio:'9 / 16',...video('barbour-guideline','guideline.mp4','A Day in Barbour — KOL video guideline'),hideCaption:true}]},
