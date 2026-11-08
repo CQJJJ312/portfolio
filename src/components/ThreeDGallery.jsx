@@ -2,7 +2,7 @@ import React from 'react';
 import { assetPath } from '../assetPath';
 const root=assetPath('/media/3d-works/');
 function Render({file,alt,label,className=''}){
- return <figure className={`collection-media ${className}`}><img src={root+file} alt={alt} width={file==='sake-house-front.png'?2560:3840} height={file==='sake-house-front.png'?1440:2160} loading="lazy" decoding="async"/>{label&&<figcaption>{label}</figcaption>}</figure>;
+ return <figure className={`collection-media ${className}`}><img src={`${root}${file}?v=compressed-20261108`} alt={alt} width={file==='sake-house-front.png'?2560:3840} height={file==='sake-house-front.png'?1440:2160} loading="lazy" decoding="async"/>{label&&<figcaption>{label}</figcaption>}</figure>;
 }
 function ModelStudy({id,title,main,views}){
  return <section className={`collection-work ${id}`} aria-labelledby={`${id}-label`}><h3 className="collection-heading" id={`${id}-label`}>{title}</h3>
